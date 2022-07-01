@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(190, 169, 211);
+}
+.App{
+  text-align: center;
+}
+.App h1{
+  color: white;
+}
+.emojiInfo{
+  display: inline-block;
+  box-sizing: border-box;
+  width: 30%;
+  margin: 0 10px;
+  padding: 5px;
+  background-color: white;
+  border-radius: 23px;
+}
+.emojiInfo h3{
+  color: rgb(71, 185, 230);
+}
+
+.emojiInfo p{
+  margin-top: 0;
+  display: table;
+  min-height: 200px;
+}
